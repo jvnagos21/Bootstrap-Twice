@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(0, 183, 255);
+}
+.sobreogrupo {
+    background-color: skyblue;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    color: white;
+    
+
+}
+body {
+    font: 20px arial, sans-serif;  
+}
+.Albuns {
+    background-color: skyblue;
+    padding-top: 40px;
+    padding-bottom: 200px;
+    color: white;
+}
+.Membros {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: skyblue;
+}
+.Turneseconcertos {
+    padding-bottom: 45px;
+    padding-top: 40px;
+    color: skyblue;
+}
+.bg-footer {
+ padding-bottom: 20px;
+}
